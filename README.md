@@ -5,6 +5,8 @@ You can read about https://github.com/rails/rails/pull/5329 and
 https://github.com/rails/rails/commit/3756a3fdfe8d339a53bf347487342f93fd9e1edb.
 This gem is for these guys that want to be clear to use boolean values.
 
+For Rails core team, don't pay attention to this gem, it just for fun. 
+
 ## Installation
 
 Add this line to your application's Gemfile:
