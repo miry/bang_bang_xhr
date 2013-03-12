@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = BangBangXhr::VERSION
   gem.authors       = ["Michael Nikitochkin"]
   gem.email         = ["miry.sof@gmail.com"]
-  gem.description   = %q{For guys that like for xhr? returns true or false}
+  gem.description   = %q{For guys that like for xhr? to return true or false}
   gem.summary       = %q{Return true and false for request.xhr?}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/miry/bang_bang_xhr"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
