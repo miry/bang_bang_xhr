@@ -13,6 +13,10 @@ Add this line to your application's Gemfile:
 
     gem 'bang_bang_xhr'
 
+or to use latest version
+
+    gem 'bang_bang_xhr', github: 'miry/bang_bang_xhr'
+
 And then execute:
 
     $ bundle
