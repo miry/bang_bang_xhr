@@ -20,3 +20,7 @@ And then execute:
 ## Usage
 
     request.xhr? # => true or false
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miry/bang_bang_xhr/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
